@@ -457,7 +457,7 @@ div#itemDetailPage {
 }
 
 .layout-mobile #itemDetailPage .btnCancelSeriesTimer::after {
-  content: "Cancle Series";
+  content: "Cancel Series";
 }
 
 .layout-mobile #itemDetailPage .btnCancelTimer::after {
